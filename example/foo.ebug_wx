@@ -1,0 +1,18 @@
+[ebug_publisher]
+state= <<EOT
+---
+break_points:
+  - filename: example/foo.pl
+    line: 11
+  - filename: example/foo.pl
+    line: 14
+EOT
+
+[view_manager]
+expressions= <<EOT
+---
+- expression: $f
+  level: 0
+- expression: '[[[2,3],2,3],2,[1,2,[1,2]]]'
+  level: 2
+EOT

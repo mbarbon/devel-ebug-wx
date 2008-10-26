@@ -5,6 +5,10 @@ MANIFEST.SKIP
 META.yml
 Makefile.PL
 bin/ebug_wx
+example/README.txt
+example/foo.ebug_wx
+example/foo.pl
+example/lib/FizzBuzz.pm
 lib/Devel/ebug/Backend/Plugin/EvalLevel.pm
 lib/Devel/ebug/Backend/Plugin/State.pm
 lib/Devel/ebug/Backend/Plugin/SymbolBrowser.pm
