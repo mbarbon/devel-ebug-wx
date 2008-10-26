@@ -5,7 +5,7 @@ use Test::UseAllModules;
 
 BEGIN {
     require Wx::Spice::ServiceManager;
-    all_uses_ok except => 'Wx::Spice::ServiceManager';
+    all_uses_ok();
 }
 
 exit 0;
