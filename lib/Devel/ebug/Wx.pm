@@ -157,6 +157,11 @@ L<Devel::ebug>, L<ebug_wx>, L<Wx>, L<ebug>
 
 Mattia Barbon, C<< <mbarbon@cpan.org> >>
 
+=head1 SOURCES
+
+The latest sources can be found on GitHub at
+L<http://github.com/mbarbon/devel-ebug-wx/tree>
+
 =head1 COPYRIGHT
 
 Copyright (C) 2007, Mattia Barbon
